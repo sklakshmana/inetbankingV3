@@ -1,0 +1,319 @@
+2021-10-13 18:19:25,510 - ebanking -INFO - URL is opened
+2021-10-13 18:19:34,679 - ebanking -INFO - Entered username
+2021-10-13 18:19:35,317 - ebanking -INFO - Entered password
+2021-10-13 18:19:37,814 - ebanking -INFO - login test passed
+2021-10-15 12:09:49,234 - ebanking -INFO - URL is opened
+2021-10-15 12:09:53,838 - ebanking -INFO - Entered username
+2021-10-15 12:09:54,116 - ebanking -INFO - Entered password
+2021-10-15 12:09:56,274 - ebanking -INFO - login test passed
+2021-10-15 12:11:33,820 - ebanking -INFO - URL is opened
+2021-10-15 12:11:38,235 - ebanking -INFO - Entered username
+2021-10-15 12:11:38,572 - ebanking -INFO - Entered password
+2021-10-15 12:11:40,568 - ebanking -INFO - login test passed
+2021-10-15 12:18:06,291 - ebanking -INFO - URL is opened
+2021-10-15 12:18:11,151 - ebanking -INFO - Entered username
+2021-10-15 12:18:11,563 - ebanking -INFO - Entered password
+2021-10-15 12:18:13,652 - ebanking -INFO - login test passed
+2021-10-15 14:37:55,256 - ebanking -INFO - URL is opened
+2021-10-15 14:38:00,727 - ebanking -INFO - Entered username
+2021-10-15 14:38:02,099 - ebanking -INFO - Entered password
+2021-10-15 14:38:04,962 - ebanking -INFO - login test passed
+2021-10-15 15:57:22,450 - ebanking -INFO - URL is opened
+2021-10-15 15:57:23,500 - ebanking -INFO - Entered username
+2021-10-15 15:57:23,797 - ebanking -INFO - Entered password
+2021-10-15 15:57:26,082 - ebanking -INFO - login test passed
+2021-10-15 16:06:09,948 - ebanking -INFO - URL is opened
+2021-10-15 16:06:10,777 - ebanking -INFO - Entered username
+2021-10-15 16:06:11,267 - ebanking -INFO - Entered password
+2021-10-15 16:06:14,900 - ebanking -INFO - login test passed
+2021-10-15 21:45:37,071 - ebanking -INFO - URL is opened
+2021-10-15 21:45:41,538 - ebanking -INFO - Entered username
+2021-10-15 21:45:41,856 - ebanking -INFO - Entered password
+2021-10-15 21:45:43,710 - ebanking -INFO - login test passed
+2021-10-15 21:54:27,995 - ebanking -INFO - URL is opened
+2021-10-15 21:54:32,274 - ebanking -INFO - Entered username
+2021-10-15 21:54:32,703 - ebanking -INFO - Entered password
+2021-10-15 21:54:35,463 - ebanking -INFO - login test passed
+2021-10-15 22:35:03,366 - ebanking -INFO - URL is opened
+2021-10-15 22:35:04,546 - ebanking -INFO - Entered username
+2021-10-15 22:35:04,866 - ebanking -INFO - Entered password
+2021-10-15 22:35:07,182 - ebanking -INFO - login test passed
+2021-10-15 22:37:06,913 - ebanking -INFO - URL is opened
+2021-10-15 22:37:08,168 - ebanking -INFO - Entered username
+2021-10-15 22:37:10,104 - ebanking -INFO - Entered password
+2021-10-16 09:05:56,258 - ebanking -INFO - user name provided
+2021-10-16 09:05:56,698 - ebanking -INFO - password provided
+2021-10-16 09:06:00,028 - ebanking -INFO - user name provided
+2021-10-16 09:06:00,406 - ebanking -INFO - password provided
+2021-10-16 09:06:03,130 - ebanking -INFO - user name provided
+2021-10-16 09:06:03,452 - ebanking -INFO - password provided
+2021-10-16 09:06:07,063 - ebanking -INFO - user name provided
+2021-10-16 09:06:07,328 - ebanking -INFO - password provided
+2021-10-16 09:06:10,893 - ebanking -INFO - user name provided
+2021-10-16 09:06:12,307 - ebanking -INFO - password provided
+2021-10-16 09:15:14,238 - ebanking -INFO - user name provided
+2021-10-16 09:15:15,611 - ebanking -INFO - password provided
+2021-10-16 09:15:22,224 - ebanking -INFO - user name provided
+2021-10-16 09:15:22,889 - ebanking -INFO - password provided
+2021-10-16 09:15:29,184 - ebanking -INFO - user name provided
+2021-10-16 09:15:29,840 - ebanking -INFO - password provided
+2021-10-16 09:15:36,358 - ebanking -INFO - user name provided
+2021-10-16 09:15:36,781 - ebanking -INFO - password provided
+2021-10-16 09:15:42,424 - ebanking -INFO - user name provided
+2021-10-16 09:15:42,799 - ebanking -INFO - password provided
+2021-10-16 09:20:55,123 - ebanking -INFO - user name provided
+2021-10-16 09:20:56,315 - ebanking -INFO - password provided
+2021-10-16 09:21:03,215 - ebanking -INFO - Login passed
+2021-10-16 09:21:12,933 - ebanking -INFO - user name provided
+2021-10-16 09:21:13,228 - ebanking -INFO - password provided
+2021-10-16 09:21:19,839 - ebanking -INFO - user name provided
+2021-10-16 09:21:20,926 - ebanking -INFO - password provided
+2021-10-16 09:21:27,438 - ebanking -INFO - user name provided
+2021-10-16 09:21:27,971 - ebanking -INFO - password provided
+2021-10-16 09:21:33,910 - ebanking -INFO - user name provided
+2021-10-16 09:21:34,652 - ebanking -INFO - password provided
+2021-10-16 09:21:40,121 - ebanking -INFO - Login passed
+2021-10-16 15:59:56,535 - ebanking -INFO - User name is provided
+2021-10-16 15:59:57,600 - ebanking -INFO - Password is provided
+2021-10-16 16:00:04,328 - ebanking -INFO - providing customer details.....
+2021-10-16 16:00:20,875 - ebanking -INFO - validation started....
+2021-10-16 16:00:21,024 - ebanking -INFO - test case passed....
+2021-10-16 16:06:12,214 - ebanking -INFO - URL is opened
+2021-10-16 16:06:28,967 - ebanking -INFO - Entered username
+2021-10-16 16:06:33,240 - ebanking -INFO - Entered password
+2021-10-16 16:06:41,167 - ebanking -INFO - login test passed
+2021-10-16 16:09:16,124 - ebanking -INFO - User name is provided
+2021-10-16 16:09:18,342 - ebanking -INFO - Password is provided
+2021-10-16 16:09:29,369 - ebanking -INFO - providing customer details.....
+2021-10-16 16:09:44,256 - ebanking -INFO - validation started....
+2021-10-16 16:14:03,526 - ebanking -INFO - URL is opened
+2021-10-16 16:14:04,268 - ebanking -INFO - Entered username
+2021-10-16 16:14:04,571 - ebanking -INFO - Entered password
+2021-10-16 16:14:06,644 - ebanking -INFO - login test passed
+2021-10-16 16:16:02,305 - ebanking -INFO - user name provided
+2021-10-16 16:16:02,885 - ebanking -INFO - password provided
+2021-10-16 16:16:08,128 - ebanking -INFO - Login passed
+2021-10-16 16:16:14,564 - ebanking -INFO - user name provided
+2021-10-16 16:16:14,837 - ebanking -INFO - password provided
+2021-10-16 16:16:20,781 - ebanking -INFO - user name provided
+2021-10-16 16:16:21,040 - ebanking -INFO - password provided
+2021-10-16 16:16:26,683 - ebanking -INFO - user name provided
+2021-10-16 16:16:26,913 - ebanking -INFO - password provided
+2021-10-16 16:16:32,562 - ebanking -INFO - user name provided
+2021-10-16 16:16:32,820 - ebanking -INFO - password provided
+2021-10-16 16:16:37,469 - ebanking -INFO - Login passed
+2021-10-16 16:22:55,684 - ebanking -INFO - user name provided
+2021-10-16 16:22:56,690 - ebanking -INFO - password provided
+2021-10-16 16:23:02,346 - ebanking -INFO - Login passed
+2021-10-16 16:23:09,425 - ebanking -INFO - user name provided
+2021-10-16 16:23:09,868 - ebanking -INFO - password provided
+2021-10-16 16:23:16,152 - ebanking -INFO - user name provided
+2021-10-16 16:23:16,622 - ebanking -INFO - password provided
+2021-10-16 16:23:22,899 - ebanking -INFO - user name provided
+2021-10-16 16:23:23,174 - ebanking -INFO - password provided
+2021-10-16 16:23:28,591 - ebanking -INFO - user name provided
+2021-10-16 16:23:28,872 - ebanking -INFO - password provided
+2021-10-16 16:23:33,594 - ebanking -INFO - Login passed
+2021-10-16 18:55:08,240 - ebanking -INFO - URL is opened
+2021-10-16 18:55:09,070 - ebanking -INFO - Entered username
+2021-10-16 18:55:09,629 - ebanking -INFO - Entered password
+2021-10-16 18:55:11,726 - ebanking -INFO - login test passed
+2021-10-16 18:55:51,620 - ebanking -INFO - User name is provided
+2021-10-16 18:55:52,571 - ebanking -INFO - Password is provided
+2021-10-16 18:55:59,670 - ebanking -INFO - providing customer details.....
+2021-10-16 18:56:13,221 - ebanking -INFO - validation started....
+2021-10-16 19:18:27,867 - ebanking -INFO - URL is opened
+2021-10-16 19:18:31,980 - ebanking -INFO - Entered username
+2021-10-16 19:18:32,643 - ebanking -INFO - Entered password
+2021-10-16 19:18:35,578 - ebanking -INFO - login test passed
+2021-10-16 19:19:12,028 - ebanking -INFO - user name provided
+2021-10-16 19:19:12,420 - ebanking -INFO - password provided
+2021-10-16 19:19:17,681 - ebanking -INFO - Login passed
+2021-10-16 19:19:24,952 - ebanking -INFO - user name provided
+2021-10-16 19:19:25,388 - ebanking -INFO - password provided
+2021-10-16 19:19:31,833 - ebanking -INFO - user name provided
+2021-10-16 19:19:32,116 - ebanking -INFO - password provided
+2021-10-16 19:19:38,071 - ebanking -INFO - user name provided
+2021-10-16 19:19:38,440 - ebanking -INFO - password provided
+2021-10-16 19:19:44,998 - ebanking -INFO - user name provided
+2021-10-16 19:19:45,294 - ebanking -INFO - password provided
+2021-10-16 19:19:50,406 - ebanking -INFO - Login passed
+2021-10-16 19:20:06,415 - ebanking -INFO - User name is provided
+2021-10-16 19:20:06,851 - ebanking -INFO - Password is provided
+2021-10-16 19:20:15,304 - ebanking -INFO - providing customer details.....
+2021-10-16 19:20:27,849 - ebanking -INFO - validation started....
+2021-10-16 19:20:27,903 - ebanking -INFO - test case passed....
+2021-10-17 11:02:25,431 - ebanking -INFO - URL is opened
+2021-10-17 11:02:30,433 - ebanking -INFO - Entered username
+2021-10-17 11:02:31,613 - ebanking -INFO - Entered password
+2021-10-17 11:02:35,677 - ebanking -INFO - login test passed
+2021-10-17 11:03:21,830 - ebanking -INFO - user name provided
+2021-10-17 11:03:22,242 - ebanking -INFO - password provided
+2021-10-17 11:03:27,741 - ebanking -INFO - Login passed
+2021-10-17 11:03:37,136 - ebanking -INFO - user name provided
+2021-10-17 11:03:38,651 - ebanking -INFO - password provided
+2021-10-17 11:03:45,897 - ebanking -INFO - user name provided
+2021-10-17 11:03:47,104 - ebanking -INFO - password provided
+2021-10-17 11:03:53,629 - ebanking -INFO - user name provided
+2021-10-17 11:03:53,960 - ebanking -INFO - password provided
+2021-10-17 11:03:59,613 - ebanking -INFO - user name provided
+2021-10-17 11:04:00,045 - ebanking -INFO - password provided
+2021-10-17 11:04:04,781 - ebanking -INFO - Login passed
+2021-10-17 11:04:21,075 - ebanking -INFO - User name is provided
+2021-10-17 11:04:21,421 - ebanking -INFO - Password is provided
+2021-10-17 11:04:27,522 - ebanking -INFO - providing customer details.....
+2021-10-17 11:04:38,891 - ebanking -INFO - validation started....
+2021-10-17 11:21:32,441 - ebanking -INFO - URL is opened
+2021-10-17 11:21:33,629 - ebanking -INFO - Entered username
+2021-10-17 11:21:34,115 - ebanking -INFO - Entered password
+2021-10-17 11:21:37,277 - ebanking -INFO - login test passed
+2021-10-17 11:22:03,788 - ebanking -INFO - user name provided
+2021-10-17 11:22:04,086 - ebanking -INFO - password provided
+2021-10-17 11:22:09,354 - ebanking -INFO - Login passed
+2021-10-17 11:22:15,730 - ebanking -INFO - user name provided
+2021-10-17 11:22:16,063 - ebanking -INFO - password provided
+2021-10-17 11:22:21,693 - ebanking -INFO - user name provided
+2021-10-17 11:22:21,998 - ebanking -INFO - password provided
+2021-10-17 11:22:27,477 - ebanking -INFO - user name provided
+2021-10-17 11:22:27,754 - ebanking -INFO - password provided
+2021-10-17 11:22:33,502 - ebanking -INFO - user name provided
+2021-10-17 11:22:33,912 - ebanking -INFO - password provided
+2021-10-17 11:22:38,644 - ebanking -INFO - Login passed
+2021-10-17 11:22:52,104 - ebanking -INFO - User name is provided
+2021-10-17 11:22:52,338 - ebanking -INFO - Password is provided
+2021-10-17 11:22:58,120 - ebanking -INFO - providing customer details.....
+2021-10-17 11:23:08,765 - ebanking -INFO - validation started....
+2021-10-17 11:30:13,340 - ebanking -INFO - URL is opened
+2021-10-17 11:30:15,050 - ebanking -INFO - Entered username
+2021-10-17 11:30:15,361 - ebanking -INFO - Entered password
+2021-10-17 11:30:17,611 - ebanking -INFO - login test passed
+2021-10-17 11:30:36,043 - ebanking -INFO - user name provided
+2021-10-17 11:30:36,531 - ebanking -INFO - password provided
+2021-10-17 11:30:41,906 - ebanking -INFO - Login passed
+2021-10-17 11:30:48,292 - ebanking -INFO - user name provided
+2021-10-17 11:30:48,613 - ebanking -INFO - password provided
+2021-10-17 11:30:54,089 - ebanking -INFO - user name provided
+2021-10-17 11:30:54,413 - ebanking -INFO - password provided
+2021-10-17 11:31:00,290 - ebanking -INFO - user name provided
+2021-10-17 11:31:00,631 - ebanking -INFO - password provided
+2021-10-17 11:31:05,995 - ebanking -INFO - user name provided
+2021-10-17 11:31:06,258 - ebanking -INFO - password provided
+2021-10-17 11:31:10,611 - ebanking -INFO - Login passed
+2021-10-17 11:31:56,696 - ebanking -INFO - User name is provided
+2021-10-17 11:31:57,141 - ebanking -INFO - Password is provided
+2021-10-17 11:32:03,856 - ebanking -INFO - providing customer details.....
+2021-10-17 11:32:22,976 - ebanking -INFO - validation started....
+2021-10-17 11:32:23,927 - ebanking -INFO - test case passed....
+2021-10-17 11:42:46,330 - ebanking -INFO - URL is opened
+2021-10-17 11:42:46,906 - ebanking -INFO - Entered username
+2021-10-17 11:42:47,168 - ebanking -INFO - Entered password
+2021-10-17 11:42:48,851 - ebanking -INFO - login test passed
+2021-10-17 11:42:58,361 - ebanking -INFO - user name provided
+2021-10-17 11:42:58,767 - ebanking -INFO - password provided
+2021-10-17 11:43:04,063 - ebanking -INFO - Login passed
+2021-10-17 11:43:10,828 - ebanking -INFO - user name provided
+2021-10-17 11:43:11,120 - ebanking -INFO - password provided
+2021-10-17 11:43:20,929 - ebanking -INFO - user name provided
+2021-10-17 11:43:21,305 - ebanking -INFO - password provided
+2021-10-17 11:43:30,777 - ebanking -INFO - user name provided
+2021-10-17 11:43:31,048 - ebanking -INFO - password provided
+2021-10-17 11:43:40,458 - ebanking -INFO - user name provided
+2021-10-17 11:43:40,745 - ebanking -INFO - password provided
+2021-10-17 11:43:45,204 - ebanking -INFO - Login passed
+2021-10-17 11:43:57,967 - ebanking -INFO - User name is provided
+2021-10-17 11:43:58,231 - ebanking -INFO - Password is provided
+2021-10-17 11:44:04,492 - ebanking -INFO - providing customer details.....
+2021-10-17 11:44:15,838 - ebanking -INFO - validation started....
+2021-10-17 11:44:15,879 - ebanking -INFO - test case passed....
+2021-10-17 14:42:58,307 - ebanking -INFO - URL is opened
+2021-10-17 14:42:59,057 - ebanking -INFO - Entered username
+2021-10-17 14:42:59,339 - ebanking -INFO - Entered password
+2021-10-17 14:43:01,145 - ebanking -INFO - login test passed
+2021-10-17 14:43:34,286 - ebanking -INFO - user name provided
+2021-10-17 14:43:34,910 - ebanking -INFO - password provided
+2021-10-17 14:43:40,912 - ebanking -INFO - Login passed
+2021-10-17 14:43:49,507 - ebanking -INFO - user name provided
+2021-10-17 14:43:49,907 - ebanking -INFO - password provided
+2021-10-17 14:43:59,564 - ebanking -INFO - user name provided
+2021-10-17 14:43:59,807 - ebanking -INFO - password provided
+2021-10-17 14:44:09,379 - ebanking -INFO - user name provided
+2021-10-17 14:44:09,901 - ebanking -INFO - password provided
+2021-10-17 14:44:20,474 - ebanking -INFO - user name provided
+2021-10-17 14:44:20,926 - ebanking -INFO - password provided
+2021-10-17 14:44:25,711 - ebanking -INFO - Login passed
+2021-10-17 14:44:40,911 - ebanking -INFO - User name is provided
+2021-10-17 14:44:41,180 - ebanking -INFO - Password is provided
+2021-10-17 14:44:47,042 - ebanking -INFO - providing customer details.....
+2021-10-17 14:44:58,713 - ebanking -INFO - validation started....
+2021-10-17 14:44:58,769 - ebanking -INFO - test case passed....
+2021-10-17 15:06:25,096 - ebanking -INFO - URL is opened
+2021-10-17 15:06:25,695 - ebanking -INFO - Entered username
+2021-10-17 15:06:25,941 - ebanking -INFO - Entered password
+2021-10-17 15:06:28,004 - ebanking -INFO - login test passed
+2021-10-17 15:06:43,772 - ebanking -INFO - user name provided
+2021-10-17 15:06:44,183 - ebanking -INFO - password provided
+2021-10-17 15:06:50,319 - ebanking -INFO - Login passed
+2021-10-17 15:06:58,710 - ebanking -INFO - user name provided
+2021-10-17 15:06:59,054 - ebanking -INFO - password provided
+2021-10-17 15:07:10,045 - ebanking -INFO - user name provided
+2021-10-17 15:07:10,778 - ebanking -INFO - password provided
+2021-10-17 15:07:21,189 - ebanking -INFO - user name provided
+2021-10-17 15:07:22,522 - ebanking -INFO - password provided
+2021-10-17 15:07:32,832 - ebanking -INFO - user name provided
+2021-10-17 15:07:34,107 - ebanking -INFO - password provided
+2021-10-17 15:07:39,400 - ebanking -INFO - Login passed
+2021-10-17 15:07:59,880 - ebanking -INFO - User name is provided
+2021-10-17 15:08:00,168 - ebanking -INFO - Password is provided
+2021-10-17 15:08:06,077 - ebanking -INFO - providing customer details.....
+2021-10-17 15:08:19,859 - ebanking -INFO - validation started....
+2021-10-17 15:08:19,958 - ebanking -INFO - test case passed....
+2021-10-17 22:34:55,612 - ebanking -INFO - URL is opened
+2021-10-17 22:34:58,724 - ebanking -INFO - Entered username
+2021-10-17 22:34:59,459 - ebanking -INFO - Entered password
+2021-10-17 22:35:03,303 - ebanking -INFO - login test passed
+2021-10-17 22:36:12,733 - ebanking -INFO - user name provided
+2021-10-17 22:36:14,109 - ebanking -INFO - password provided
+2021-10-17 22:36:21,313 - ebanking -INFO - Login passed
+2021-10-17 22:36:31,320 - ebanking -INFO - user name provided
+2021-10-17 22:36:32,318 - ebanking -INFO - password provided
+2021-10-17 22:36:44,495 - ebanking -INFO - user name provided
+2021-10-17 22:36:45,580 - ebanking -INFO - password provided
+2021-10-17 22:37:06,814 - ebanking -INFO - user name provided
+2021-10-17 22:37:08,228 - ebanking -INFO - password provided
+2021-10-17 22:37:20,715 - ebanking -INFO - user name provided
+2021-10-17 22:37:21,255 - ebanking -INFO - password provided
+2021-10-17 22:37:26,787 - ebanking -INFO - Login passed
+2021-10-17 22:37:53,088 - ebanking -INFO - User name is provided
+2021-10-17 22:37:53,601 - ebanking -INFO - Password is provided
+2021-10-17 22:38:05,718 - ebanking -INFO - providing customer details.....
+2021-10-17 22:38:22,092 - ebanking -INFO - validation started....
+2021-10-17 22:38:22,489 - ebanking -INFO - test case passed....
+2021-10-18 00:30:47,137 - ebanking -INFO - URL is opened
+2021-10-18 00:30:48,597 - ebanking -INFO - Entered username
+2021-10-18 00:30:49,356 - ebanking -INFO - Entered password
+2021-10-18 00:30:52,125 - ebanking -INFO - login test passed
+2021-10-18 00:31:51,613 - ebanking -INFO - user name provided
+2021-10-18 00:31:51,962 - ebanking -INFO - password provided
+2021-10-18 00:31:57,912 - ebanking -INFO - Login passed
+2021-10-18 00:32:06,024 - ebanking -INFO - user name provided
+2021-10-18 00:32:06,462 - ebanking -INFO - password provided
+2021-10-18 00:32:16,706 - ebanking -INFO - user name provided
+2021-10-18 00:32:17,475 - ebanking -INFO - password provided
+2021-10-18 00:32:29,185 - ebanking -INFO - user name provided
+2021-10-18 00:32:29,940 - ebanking -INFO - password provided
+2021-10-18 00:32:41,211 - ebanking -INFO - user name provided
+2021-10-18 00:32:42,445 - ebanking -INFO - password provided
+2021-10-18 00:32:48,233 - ebanking -INFO - Login passed
+2021-10-18 00:33:05,239 - ebanking -INFO - User name is provided
+2021-10-18 00:33:06,344 - ebanking -INFO - Password is provided
+2021-10-18 00:33:13,408 - ebanking -INFO - providing customer details.....
+2021-10-18 00:33:26,272 - ebanking -INFO - validation started....
+2021-10-18 00:33:26,314 - ebanking -INFO - test case passed....
+2021-10-19 16:15:55,813 - ebanking -INFO - URL is opened
+2021-10-19 16:15:56,686 - ebanking -INFO - Entered username
+2021-10-19 16:15:56,925 - ebanking -INFO - Entered password
+2021-10-19 16:15:58,712 - ebanking -INFO - login test passed
+2021-10-19 16:18:21,964 - ebanking -INFO - URL is opened
+2021-10-19 16:18:22,552 - ebanking -INFO - Entered username
+2021-10-19 16:18:23,056 - ebanking -INFO - Entered password
+2021-10-19 16:18:25,014 - ebanking -INFO - login test passed
