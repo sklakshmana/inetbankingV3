@@ -12,6 +12,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
@@ -47,8 +48,23 @@ public class BaseClass {
 		
 		if(br.equals("chrome"))
 		{
-			System.setProperty("webdriver.chrome.driver",readconfig.getChromepath());
-			driver = new ChromeDriver();
+			//System.setProperty("webdriver.chrome.driver",readconfig.getChromepath());
+			//driver = new ChromeDriver();
+			
+			//File file = new File("/usr/bin/chromedriver");
+			File file = new File(readconfig.getChromepath());
+		    System.setProperty("webdriver.chrome.driver", file.getAbsolutePath());
+		    ChromeOptions options = new ChromeOptions();
+		    options.addArguments("headless");
+		    options.addArguments("window-size=1280x800");
+		    options.addArguments("no-sandbox");
+		    options.addArguments("–disable-dev-shm-usage");
+		    options.addArguments("start-maximized");
+		    options.addArguments("--disable-gpu");
+		    options.addArguments("--disable-setuid-sandbox");
+		    driver = new ChromeDriver(options);
+			
+			
 		} else if(br.equals("firefox")) {
 			System.setProperty("webdriver.gecko.driver",readconfig.getFirefoxpath());
 			driver = new FirefoxDriver();	
