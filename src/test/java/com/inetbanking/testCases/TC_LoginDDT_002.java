@@ -3,6 +3,8 @@ package com.inetbanking.testCases;
 import java.io.IOException;
 
 import org.openqa.selenium.NoAlertPresentException;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -28,9 +30,11 @@ public class TC_LoginDDT_002 extends BaseClass {
 		if(isAlertPresent()==true)
 		{
 			Thread.sleep(4000);
-			captureScreen(driver, "loginDDT");			
+			WebDriverWait wait = new WebDriverWait(driver, 30);
+			wait.until(ExpectedConditions.alertIsPresent());
 			driver.switchTo().alert().accept(); //close alert
 			driver.switchTo().defaultContent();
+			captureScreen(driver, "loginDDT");	
 			Assert.assertTrue(false);
 			logger.warn("Login failed");
 		}

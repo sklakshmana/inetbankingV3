@@ -27,10 +27,6 @@ public class BaseClass {
 	
 	ReadConfig readconfig = new ReadConfig();
 	
-	/*public String baseURL = "http://demo.guru99.com/v4/";
-	public String username="mngr358884";
-	public String password="EverAbu"; */
-	
 	public String baseURL = readconfig.getApplicationURL();
 	public String username=readconfig.getUsername();
 	public String password=readconfig.getPassword();
@@ -51,7 +47,6 @@ public class BaseClass {
 			//System.setProperty("webdriver.chrome.driver",readconfig.getChromepath());
 			//driver = new ChromeDriver();
 			
-			//File file = new File("/usr/bin/chromedriver");
 			File file = new File(readconfig.getChromepath());
 		    System.setProperty("webdriver.chrome.driver", file.getAbsolutePath());
 		    ChromeOptions options = new ChromeOptions();
